@@ -12,3 +12,4 @@
 */
 
 Route::get('/','MarlinController@show');
+Route::get('/ongkir','RajaongkirController@show');

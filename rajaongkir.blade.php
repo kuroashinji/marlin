@@ -133,7 +133,7 @@
                                         
 <input type="hidden" name="tipe" value="ongkir">
                                         
-<input type="hidden" name="kotaasal" value="">
+<input type="hidden" name="kotaasal" value="Yogyakarta">
                                         
 <input type="hidden" name="kotatujuan" value="">
                                         
